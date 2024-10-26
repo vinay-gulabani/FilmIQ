@@ -1,0 +1,17 @@
+body {
+  background-color: #7ff18d;
+  text-align: center;
+ }
+img{
+  height: 250px;
+}
+#cor {
+  color: green;
+}
+.wrong{
+  color :red
+}
+
+.wrong{
+  color : yellow
+}
